@@ -1,0 +1,16 @@
+#one{
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+#two{
+    background-color: brown;
+}
+
+.img{
+    width: 20px;
+}
+
+#three{
+    height: 30px;
+}
